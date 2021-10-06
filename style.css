@@ -1,0 +1,11 @@
+/* this is how you do a header */
+
+header {
+	padding: 400px;
+  	text-align: center;
+  	background: url("images/headphones.jpg") no-repeat top right, #000000e8;
+	background-size: 2000px;
+	background-blend-mode: luminosity;
+  	color: white;
+  	font-size: 40px;
+}
